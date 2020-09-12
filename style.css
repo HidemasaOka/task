@@ -89,15 +89,17 @@ footer {
 
   .step-box {
     float: none;
-    width: 100%;
+    width: 90%;
     margin-bottom: 20px;
     padding: 10px;
     position: relative;
     background-color: #eee;
+    margin-right: auto;
+    margin-left: auto;
   }
 
   .step-box:last-child {
-    margin-right: 0;
+    margin-right: auto;
   }
 
   .step-img1 {
